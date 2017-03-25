@@ -1,8 +1,8 @@
 #include <iostream>
 #include <iomanip>
 #include <math.h>
-#define LT 5
-#define ST 2
+#define LT 300
+#define ST 60
 #define PRECISION 2
 
 using namespace std;
